@@ -25,6 +25,7 @@ Este repositorio documenta paso a paso el desarrollo de la tienda online SweetCa
 git clone [https://github.com/kasandracruz-dev/laboratorio-readme.git](https://github.com/kasandracruz-dev/laboratorio-readme.git)
 cd laboratorio-readme
 npm instal
+```
 
 ## Estado de funcionalidades
 | Función  | Estado |
@@ -40,10 +41,12 @@ npm instal
 
 ## Arquitectura
 
+```bash
 graph LR
     Usuario --> Frontend
     Frontend --> API
     API --> DB[(Base de datos)]
+```
 
 ## Contribuidores
 
