@@ -22,9 +22,9 @@ SweetCake es una plataforma e-commerce interactiva dedicada a la venta y persona
 ## Instalación
 
 ```bash
-git clone (https://github.com/kasandracruz-dev/laboratorio-readme.git)
+git clone https://github.com/kasandracruz-dev/laboratorio-readme.git
 cd laboratorio-readme
-npm instal
+npm install
 ```
 ## Uso
 
