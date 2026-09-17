@@ -19,6 +19,12 @@ Este repositorio documenta paso a paso el desarrollo de la tienda online SweetCa
 - [Arquitectura](#arquitectura)
 - [Contribuidores](#contribuidores)
 
+## Instalacion
+
+```bash
+git clone [https://github.com/kasandracruz-dev/laboratorio-readme.git](https://github.com/kasandracruz-dev/laboratorio-readme.git)
+cd laboratorio-readme
+npm instal
 
 ## Estado de funcionalidades
 | Función  | Estado |
@@ -44,10 +50,5 @@ graph LR
 Desarrollado por: Kasandra Cruz Jimenez
 GitHub: @kasandracruz-dev
 
-## Instalacion
 
-```bash
-git clone [https://github.com/kasandracruz-dev/laboratorio-readme.git](https://github.com/kasandracruz-dev/laboratorio-readme.git)
-cd laboratorio-readme
-npm instal
 
