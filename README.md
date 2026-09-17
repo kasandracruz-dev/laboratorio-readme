@@ -41,7 +41,7 @@ npm instal
 
 ## Arquitectura
 
-```bash
+```mermaid
 graph LR
     Usuario --> Frontend
     Frontend --> API
