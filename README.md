@@ -7,7 +7,7 @@ Proyecto de práctica para aprender Markdown avanzado en GitHub.
 
 ## Descripción
 
-Este repositorio documenta paso a paso el desarrollo de la tienda online SweetCake: catálogo, pedidos y arquitectura.
+SweetCake es una plataforma e-commerce interactiva dedicada a la venta y personalización de pasteles y postres artesanales. Permite a los clientes explorar nuestro catálogo dulce, realizar sus pedidos y calcular el costo de entrega a domicilio.
 
 ## Tabla de contenidos
 
@@ -36,8 +36,13 @@ npm instal
 
 ## Pendientes
 
-- [x] Diseño de la base de datos
-- [ ] Pruebas unitarias
+- [x] Diseñar la interfaz del catálogo de productos
+
+- [x] Crear el flujo del carrito de compras
+
+- [ ] Integrar pasarela de pago (MercadoPago / Yape)
+
+- [ ] Sistema de seguimiento de delivery en tiempo real
 
 ## Arquitectura
 
